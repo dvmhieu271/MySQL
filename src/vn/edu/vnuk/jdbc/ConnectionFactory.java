@@ -10,7 +10,7 @@ public class ConnectionFactory {
 			return DriverManager.getConnection(
 				"jdbc:mysql://localhost/vnuk", //URL of the DB
 				"root", //USER (root)
-				"123456789" //Password
+				"0Pskmhkhbthkbb" //Password
 			);
 		}
 		

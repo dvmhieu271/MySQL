@@ -1,7 +1,8 @@
-package vn.edu.vnuk.jdbc;
+package vn.edu.vnuk.jdbc.test;
 
 import java.sql.Connection;
 import java.sql.SQLException;
+import vn.edu.vnuk.jdbc.ConnectionFactory;
 
 public class TestConnection {
 	public static void main(String[] args) throws SQLException {
